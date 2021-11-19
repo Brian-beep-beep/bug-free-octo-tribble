@@ -1,0 +1,11 @@
+h1{
+    color: whitesmoke
+}
+.header{
+background-color: blue;
+display:flex;
+justify-content: center;
+}
+*{
+    border:solid;
+}
